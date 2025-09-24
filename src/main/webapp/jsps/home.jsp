@@ -14,8 +14,8 @@
 	           We are raising billionaires IT professionals accross the nations of the World.
 	Landmark Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
         Landmark Technologies, the Pride of Africa.
-	Class39 DevOps MasterClass started on Feb 8, 2025.
-        Class30 DevOps MasterClass will start on June 8, 2025.
+	Class39 DevOps MasterClass started on Sep 8, 2025.
+        Class30 DevOps MasterClass will start on Oct 8, 2025.
         Please invite all your contacts and friends for this life changing course.
 </h1>
 <hr>
@@ -56,3 +56,4 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
